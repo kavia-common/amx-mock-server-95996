@@ -99,3 +99,26 @@
 2025-08-12 06:45:18,891 - Knowledge - INFO - Updating org costs, total cost: 0
 2025-08-12 06:45:19,710 - Knowledge - INFO - Saving knowledge to Redis...
 2025-08-12 06:45:19,799 - Knowledge - INFO - Knowledge saved to Redis successfully
+2025-08-12 06:51:37,131 - Knowledge - INFO - Redis support added with prefix knowledge:b95480s:
+2025-08-12 06:51:37,356 - Knowledge - INFO - load persisted knowledge: begin
+2025-08-12 06:51:37,446 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/amx-mock-server-95996.git:kavia-master
+2025-08-12 06:51:37,546 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb519bba310>
+2025-08-12 06:51:37,633 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/main.py
+2025-08-12 06:51:37,752 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/amx-mock-server-95996.git:kavia-master
+2025-08-12 06:51:37,840 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb519bba310>
+2025-08-12 06:51:37,941 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/requirements.txt
+2025-08-12 06:51:38,042 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/amx-mock-server-95996.git:kavia-master
+2025-08-12 06:51:38,123 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb519bba310>
+2025-08-12 06:51:38,216 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/output.json
+2025-08-12 06:51:38,314 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/amx-mock-server-95996.git:kavia-master
+2025-08-12 06:51:38,436 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb519bba310>
+2025-08-12 06:51:38,551 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/models.py
+2025-08-12 06:51:38,678 - Knowledge - INFO - load persisted knowledge: end
+2025-08-12 06:51:38,778 - Knowledge - INFO - load persisted docinfo: begin
+2025-08-12 06:51:38,897 - Knowledge - INFO - load persisted docinfo: end
+2025-08-12 06:51:39,024 - Knowledge - INFO - worker kw1 created with dedicated MongoDB connection (total: 1)
+2025-08-12 06:51:39,138 - Knowledge - INFO - knowledge worker kw1 start
+2025-08-12 06:51:39,219 - Knowledge - INFO - Knowledge creation complete
+2025-08-12 06:51:39,295 - Knowledge - INFO - Updating org costs, total cost: 0
+2025-08-12 06:51:40,157 - Knowledge - INFO - Saving knowledge to Redis...
+2025-08-12 06:51:40,279 - Knowledge - INFO - Knowledge saved to Redis successfully
