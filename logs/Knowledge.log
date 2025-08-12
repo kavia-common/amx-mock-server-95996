@@ -1,0 +1,77 @@
+2025-08-12 06:42:03,862 - Knowledge - INFO - Redis support added with prefix knowledge:b95480s:
+2025-08-12 06:42:04,126 - Knowledge - INFO - load persisted knowledge: begin
+2025-08-12 06:42:04,216 - Knowledge - INFO - load persisted knowledge: end
+2025-08-12 06:42:04,329 - Knowledge - INFO - load persisted docinfo: begin
+2025-08-12 06:42:04,415 - Knowledge - INFO - load persisted docinfo: end
+2025-08-12 06:42:04,508 - Knowledge - INFO - worker kw1 created with dedicated MongoDB connection (total: 1)
+2025-08-12 06:42:04,618 - Knowledge - INFO - knowledge worker kw1 start
+2025-08-12 06:42:04,623 - Knowledge - INFO - worker kw2 created with dedicated MongoDB connection (total: 2)
+2025-08-12 06:42:04,725 - Knowledge - INFO - worker kw1 pull /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/main.py from ingest queue
+2025-08-12 06:42:04,788 - Knowledge - INFO - knowledge worker kw2 start
+2025-08-12 06:42:04,792 - Knowledge - INFO - worker kw3 created with dedicated MongoDB connection (total: 3)
+2025-08-12 06:42:04,921 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/main.py
+2025-08-12 06:42:04,998 - Knowledge - INFO - worker kw2 pull /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/requirements.txt from ingest queue
+2025-08-12 06:42:05,114 - Knowledge - INFO - knowledge worker kw3 start
+2025-08-12 06:42:05,117 - Knowledge - INFO - worker kw4 created with dedicated MongoDB connection (total: 4)
+2025-08-12 06:42:05,471 - Knowledge - INFO - knowledge worker kw4 start
+2025-08-12 06:42:05,337 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/requirements.txt
+2025-08-12 06:42:05,384 - Knowledge - INFO - worker kw3 pull /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/output.json from ingest queue
+2025-08-12 06:42:05,226 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/amx-mock-server-95996.git:kavia-master
+2025-08-12 06:42:05,552 - Knowledge - INFO - worker kw4 pull /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/models.py from ingest queue
+2025-08-12 06:42:05,678 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/amx-mock-server-95996.git:kavia-master
+2025-08-12 06:42:06,023 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f2fcf5826d0>
+2025-08-12 06:42:05,861 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f2fcf5826d0>
+2025-08-12 06:42:05,977 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/models.py
+2025-08-12 06:42:05,788 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/output.json
+2025-08-12 06:42:06,147 - Knowledge - INFO - persist ingested knowledge for /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/requirements.txt
+2025-08-12 06:42:06,251 - Knowledge - INFO - persist ingested knowledge for /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/main.py
+2025-08-12 06:42:06,378 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/amx-mock-server-95996.git:kavia-master
+2025-08-12 06:42:06,492 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/amx-mock-server-95996.git:kavia-master
+2025-08-12 06:42:06,610 - Knowledge - INFO - adding /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/requirements.txt to ingest queue
+2025-08-12 06:42:06,732 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f2fcf5826d0>
+2025-08-12 06:42:06,835 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f2fcf5826d0>
+2025-08-12 06:42:06,970 - Knowledge - INFO - adding /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/main.py to ingest queue
+2025-08-12 06:42:07,028 - Knowledge - INFO - persist ingested knowledge for /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/models.py
+2025-08-12 06:42:07,121 - Knowledge - INFO - persist ingested knowledge for /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/output.json
+2025-08-12 06:42:07,198 - Knowledge - INFO - worker kw2 pull /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/requirements.txt from ingest queue
+2025-08-12 06:42:07,200 - Knowledge - INFO - worker kw1 pull /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/main.py from ingest queue
+2025-08-12 06:42:07,337 - Knowledge - INFO - adding /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/models.py to ingest queue
+2025-08-12 06:42:07,474 - Knowledge - INFO - Thread kw2 - File requirements.txt - Remaining files in queue: 0
+2025-08-12 06:42:07,562 - Knowledge - INFO - Thread kw1 - File main.py - Remaining files in queue: 0
+2025-08-12 06:42:07,709 - Knowledge - INFO - worker kw4 pull /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/models.py from ingest queue
+2025-08-12 06:42:07,709 - Knowledge - INFO - adding /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/output.json to ingest queue
+2025-08-12 06:42:07,734 - Knowledge - INFO - start ingest for /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/requirements.txt
+2025-08-12 06:42:07,805 - Knowledge - INFO - start ingest for /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/main.py
+2025-08-12 06:42:07,914 - Knowledge - INFO - Thread kw4 - File models.py - Remaining files in queue: 0
+2025-08-12 06:42:07,992 - Knowledge - INFO - worker kw3 pull /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/output.json from ingest queue
+2025-08-12 06:42:08,116 - Knowledge - INFO - Fast-track processing for simple file: /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/requirements.txt
+2025-08-12 06:42:08,290 - Knowledge - INFO - start ingest for /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/models.py
+2025-08-12 06:42:08,380 - Knowledge - INFO - Thread kw3 - File output.json - Remaining files in queue: 0
+2025-08-12 06:42:08,460 - Knowledge - INFO - done fast ingest for /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/requirements.txt
+2025-08-12 06:42:08,660 - Knowledge - INFO - start ingest for /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/output.json
+2025-08-12 06:42:08,771 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/requirements.txt
+2025-08-12 06:42:08,857 - Knowledge - INFO - Fast-track processing for simple file: /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/output.json
+2025-08-12 06:42:08,961 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/amx-mock-server-95996.git:kavia-master
+2025-08-12 06:42:09,045 - Knowledge - INFO - done fast ingest for /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/output.json
+2025-08-12 06:42:09,121 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f2fcf5826d0>
+2025-08-12 06:42:09,299 - Knowledge - INFO - persist ingested knowledge for /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/requirements.txt
+2025-08-12 06:42:09,224 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/output.json
+2025-08-12 06:42:09,468 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/amx-mock-server-95996.git:kavia-master
+2025-08-12 06:42:09,587 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f2fcf5826d0>
+2025-08-12 06:42:09,692 - Knowledge - INFO - persist ingested knowledge for /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/output.json
+2025-08-12 06:42:17,185 - Knowledge - INFO - done ingest for /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/models.py
+2025-08-12 06:42:17,321 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/models.py
+2025-08-12 06:42:17,348 - Knowledge - INFO - done ingest for /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/main.py
+2025-08-12 06:42:17,410 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/amx-mock-server-95996.git:kavia-master
+2025-08-12 06:42:17,545 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/main.py
+2025-08-12 06:42:17,644 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f2fcf5826d0>
+2025-08-12 06:42:17,729 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/amx-mock-server-95996.git:kavia-master
+2025-08-12 06:42:17,823 - Knowledge - INFO - persist ingested knowledge for /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/models.py
+2025-08-12 06:42:17,903 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f2fcf5826d0>
+2025-08-12 06:42:18,070 - Knowledge - INFO - persist ingested knowledge for /app/data/tataelxsimockapisolutions5451/95996/b95480s/amx-mock-server-95996/main.py
+2025-08-12 06:42:18,495 - Knowledge - INFO - persist search terms embedding for models.py
+2025-08-12 06:42:18,977 - Knowledge - INFO - persist search terms embedding for main.py
+2025-08-12 06:42:19,059 - Knowledge - INFO - Knowledge creation complete
+2025-08-12 06:42:19,132 - Knowledge - INFO - Updating org costs, total cost: 0.0007679999999999999
+2025-08-12 06:42:19,675 - Knowledge - INFO - Saving knowledge to Redis...
+2025-08-12 06:42:19,756 - Knowledge - INFO - Knowledge saved to Redis successfully
